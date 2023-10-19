@@ -56,7 +56,7 @@ Microsoft partnered with Canonical to bring systemd support to WSL. See Craig Lo
 
 - [Craig's microk8s demo on GitHub](https://github.com/craigloewen-msft/microk8sdemo)
 
-## systemd examples
+## Systemd examples
 
 A few examples of Linux applications that depend on systemd are:
 
